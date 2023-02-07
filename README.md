@@ -1,2 +1,2 @@
 My first readme.md
-I have addede an updated text.
+I have added an updated text.
